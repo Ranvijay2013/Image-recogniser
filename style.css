@@ -1,0 +1,25 @@
+body { 
+ color: rgb(255, 255, 255);
+ background: linear-gradient(rgb(254, 254, 254), rgb(228, 189, 118),rgb(224, 164, 127), rgb(139, 99, 6), rgb(93, 58, 3));
+ 
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-style: oblique;
+    color: black;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,p
+#result_object_name,
+#result_object_accuracy {
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+}
